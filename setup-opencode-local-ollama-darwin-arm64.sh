@@ -35,7 +35,7 @@ mkdir -p ~/.config/opencode
 if [ -f ~/.config/opencode/opencode.json ]; then
     log "OpenCode config already exists"
 else
-    log "Creating OpenCode configuration..."
+    log "Creating OpenCode configuration, ask for permissions..."
     cat > ~/.config/opencode/opencode.json << EOF
 {
   "\$schema": "https://opencode.ai/config.json",
