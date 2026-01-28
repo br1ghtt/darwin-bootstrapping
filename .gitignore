@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Homebrew
+Homebrew/.gitkeep
+
+# Shell history
+*.zsh_history
+*.bash_history
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Configuration backup files
+*.bak
+*.backup
+
+# AI model cache (if applicable)
+.ollama/
+.cache/
