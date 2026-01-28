@@ -42,6 +42,7 @@ Homebrew/.gitkeep
 # Editor files
 .vscode/
 .idea/
+*.iml
 *.swp
 *.swo
 *~
